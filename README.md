@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SomeNiceTables
 - 💻 I mainly code roblox exploits
 - 🛠️ My coding skills are basic lua code, A lot of html (It's very easy), and some javascript.
-- My discord is SomeNiceTables#7329
+- <img height="20" width="20" src="https://unpkg.com/simple-icons@v6/icons/discord.svg" /> My discord is SomeNiceTables#7329
